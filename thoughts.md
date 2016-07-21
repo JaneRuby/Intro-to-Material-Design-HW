@@ -3,17 +3,18 @@ ntro to Material Design Homework - Responses
 
 ##### Write at least 5 things that you like or dislike about the [Android Developers](https://developer.android.com/index.html) website design.
 
-1.
+1. I like how light the site feels, like paper (lol)
 
-2.
+2. minimal color scheme
+ 
+3. consistency across the whole site
 
-3.
+4. the grid view is nice
 
-4.
+5. i like the 3D aspect, but in how subtle it is
 
-5.
-
-6.
+6. top tool bar has a nice appearance
+7. 
 
 7.
 
@@ -27,15 +28,15 @@ ntro to Material Design Homework - Responses
 
 ##### Write at least 3 reasons why the [Android Developers](https://developer.android.com/index.html) website design follows Material Design guidelines. Be as specific as possible.
 
-1.
+1. shadow casting
 
-2.
+2. collapsing elements
 
-3.
+3. color scheme
 
-4.
+4. accent buttons
 
-5.
+5. 
 
 6.
 
